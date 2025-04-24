@@ -1,0 +1,20 @@
+[
+  {
+    "id": "D001",
+    "name": "Pedro Ramírez",
+    "assignedVehicle": "V001",
+    "status": "En ruta"
+  },
+  {
+    "id": "D002",
+    "name": "Manuela Fernández",
+    "assignedVehicle": "V002",
+    "status": "Disponible"
+  },
+  {
+    "id": "D003",
+    "name": "José Pérez",
+    "assignedVehicle": "V003",
+    "status": "En ruta"
+  }
+]

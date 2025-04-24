@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P001",
+    "name": "Camilo Pollero",
+    "assignedRoute": "R001",
+    "contact": "carlos.mendoza@email.com"
+  },
+  {
+    "id": "P002",
+    "name": "Ana Gómez",
+    "assignedRoute": "R002",
+    "contact": "ana.gomez@email.com"
+  },
+  {
+    "id": "P003",
+    "name": "Luis Rodríguez",
+    "assignedRoute": "R003",
+    "contact": "luis.rodriguez@email.com"
+  }
+]

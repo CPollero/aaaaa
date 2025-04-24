@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I001",
+    "type": "Accidente",
+    "location": "Calle 12 y Avenida 5",
+    "dateHour": "2025-03-30T14:15:00",
+    "description": "Colisión entre dos vehículos",
+    "status": "En proceso"
+  },
+  {
+    "id": "I002",
+    "type": "Robo",
+    "location": "Estación Norte",
+    "dateHour": "2025-03-29T18:45:00",
+    "description": "Asalto a un pasajero",
+    "status": "Pendiente"
+  },
+  {
+    "id": "I003",
+    "type": "Incendio",
+    "location": "Parque Sur",
+    "dateHour": "2025-03-28T09:30:00",
+    "description": "Pequeño incendio en un vehículo",
+    "status": "Resuelto"
+  }
+]

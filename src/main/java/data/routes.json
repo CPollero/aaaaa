@@ -1,0 +1,23 @@
+[
+  {
+    "id": "R001",
+    "distance": 15.2,
+    "estimatedTime": 30,
+    "startPoint": "Avenida Central",
+    "endPoint": "Plaza Mayor"
+  },
+  {
+    "id": "R002",
+    "distance": 8.5,
+    "estimatedTime": 20,
+    "startPoint": "Estación Norte",
+    "endPoint": "Parque Sur"
+  },
+  {
+    "id": "R003",
+    "distance": 22.0,
+    "estimatedTime": 45,
+    "startPoint": "Terminal Este",
+    "endPoint": "Centro Comercial"
+  }
+]
